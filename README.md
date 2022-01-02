@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chinanf-boy&theme=onedark&show_icons=true" />
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
