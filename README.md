@@ -1,6 +1,6 @@
 ### Hi there 👋 [![Waka Readme](https://github.com/chinanf-boy/chinanf-boy/actions/workflows/waka.yml/badge.svg)](https://github.com/chinanf-boy/chinanf-boy/actions/workflows/waka.yml)
 
-## 文档，读代码，写代码。
+## 文档，读代码，写代码：终从问题出发。
 
 这三个顺序，本是我学习新事物的方式：
 
