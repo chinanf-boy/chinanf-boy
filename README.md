@@ -1,12 +1,12 @@
 ### Hi there 👋 [![Waka Readme](https://github.com/chinanf-boy/chinanf-boy/actions/workflows/waka.yml/badge.svg)](https://github.com/chinanf-boy/chinanf-boy/actions/workflows/waka.yml)
 
-## 2022年1月1日
+## 2022年1月1日 ♥♥♥
 
 说起来，这些个文档啊，信息啊，早已成为我荒废的田地，我又有点想种田了。接下来，我应该会适当地更新文档的内容，只是挖的坑有点多，请在 [profile Issues](https://github.com/chinanf-boy/chinanf-boy/issues) 上，提一嘴；也为过去那些我无法照顾到的热心留言，说声抱歉，其中有点逃避的意味在里面。
 
 所以，新年新气象，没人就更好了，那我就自选主题。:p
 
-## 文档，读代码，写代码：终从问题出发。
+## 文档，读代码，写代码：终从问题出发。🧠🧠🧠
 
 这三个顺序，本是我学习新事物的方式：
 
